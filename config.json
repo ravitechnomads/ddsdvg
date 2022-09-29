@@ -1,0 +1,23 @@
+{
+    "price": 0.5,
+    "number": 7777,
+    "gatekeeper": null,
+    "solTreasuryAccount": "HALJUxTuu1y6PdCWBLafpDaePjb6JifTYVSDHVjXGwFy",
+    "splTokenAccount": null,
+    "splToken": null,
+    "goLiveDate": "20 Jul 2022 18:00:00 UTC",
+    "endSettings": null,
+    "whitelistMintSettings":null,
+    "hiddenSettings": {
+        "name":"MILLENABOTS ",
+        "uri":"https://bafkreieogr2tfd6ybftetbjsqb4ejjyxg6if4tjslgz66qvb7yleyiziiu.ipfs.nftstorage.link/",
+        "hash":"dede54035502df3460f9fc32bbf09cbc"
+    },
+    "storage": "nft-storage",
+    "ipfsInfuraProjectId": null,
+    "ipfsInfuraSecret": null,
+    "nftStorageKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweDU4NmIyQjEyOTAzYzU5RTZmNjU5OTZERjkwNzY0RjQwYmE3MjYyNjYiLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTY1NzcyMjE5NDI2MSwibmFtZSI6Im1pbGxlbmFtYWluIn0.Zu_vua1D0iSWY6LguFwtpDKb7MlH2GvV-2BA9u0Tz3w",
+    "awsS3Bucket": null,
+    "noRetainAuthority": false,
+    "noMutable": false
+}

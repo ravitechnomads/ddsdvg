@@ -1,0 +1,14 @@
+[
+    {
+        "owner_wallet": "FzN6iQzE5E2KTCQeqxadBtFBbvVEoH6AqZViBdG3sU3",
+        "associated_token_address": "HwtXbbdvv75EHKNDXCA5uGoVssRZnEkXxw5jCwo36PXV",
+        "mint_account": "GV14vAFY4mAHiDf2k5xYTuYfL4BvEbcgXSP5qAUnjM9W",
+        "metadata_account": "4gSPsEi17LskduLwEa6z5Q4yuKrVEZfss3wjoP2ZaVDT"
+    },
+    {
+        "owner_wallet": "441FM39yrUvqz2qAFuk3QM2CQajMuQGLtfLcbfd2Miey",
+        "associated_token_address": "4cPQ4sHPLqsBB1CU3NucUkDnZJJpWmPsfVdU9wXBYc7Y",
+        "mint_account": "2xKDdXoApwZ6Jg67vwJcAVRaBATEEB6FBRdRH6bAd4uD",
+        "metadata_account": "5MLWRKzGEqpqWwxLvmbQM92FBjGm2wAs86wjt51bLdu8"
+    }
+]

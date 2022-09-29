@@ -1,0 +1,30 @@
+{
+    "name": "MILLENABOTS ",
+    "symbol": "MBOTS",
+    "description": "7777 Millenabots are rising to forge a Solana Alpha Community, including access to a top-tier NFT tracking & analytics platform, phoenix.tools, free for all holders of the collection.",
+    "seller_fee_basis_points": 750,
+    "image": "https://arweave.net/5NqZ9KWPqxiYQygC9cYtVzBOb0bh8a6MDa9QnnT5Z_0",
+    "external_url": "https://millenabots.xyz/",
+    "edition": 0,
+    "attributes": [
+    ],
+    "collection": {
+      "name": "Millena Bots",
+      "family": "Millena Bots"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://arweave.net/5NqZ9KWPqxiYQygC9cYtVzBOb0bh8a6MDa9QnnT5Z_0",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "HALJUxTuu1y6PdCWBLafpDaePjb6JifTYVSDHVjXGwFy",
+          "share": 100
+        }
+      ]
+    }
+  }

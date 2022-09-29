@@ -1,0 +1,18 @@
+{
+    "creators": [
+        {
+            "address": "5mjYDYh8HcC2cskRZ6WUEkJGvFGbZdsPJmRu3XT2UeZy",
+            "share": 0,
+            "verified": true
+        },
+        {
+            "address": "HALJUxTuu1y6PdCWBLafpDaePjb6JifTYVSDHVjXGwFy",
+            "share": 100,
+            "verified": false
+        }
+    ],
+    "name": "MILLENABOTS #1",
+    "seller_fee_basis_points": 750,
+    "symbol": "MBOTS",
+    "uri": "https://arweave.net/KrKghMFJ0I8KIZ0Ehwptt1C2KAmbVvfyHj2EDAVRUcs"
+}

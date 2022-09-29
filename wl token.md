@@ -1,0 +1,16 @@
+# $ spl-token create-token --decimals 0
+Creating token HmjorGD6AbDoTEe5JquSAt3AvveGGAZanccNXyR9GDu4
+
+Signature: 3WcVQeRzCZr1FPG5H4Hgmz5zkab8pFTUMKMiS5wq1mfgu1u8cByzmZC5jSmpKPN1nx3PVZiAJkAaeKz3mG7PmPmw
+
+# $ spl-token create-account HmjorGD6AbDoTEe5JquSAt3AvveGGAZanccNXyR9GDu4
+Creating account FkzAqCPq5m7KkurpvkFto4g1GWDStFC61vmRvuKENAuH
+
+Signature: 4hrb6SpgH5sBrgYiaf7bmTAt5HJtAUzXq8ryDtGJBmTkffavBHKdsiKreGjKUwULKA4p6gqfPvsXUQFRaamu8zG1
+
+#$ spl-token mint HmjorGD6AbDoTEe5JquSAt3AvveGGAZanccNXyR9GDu4 10000 FkzAqCPq5m7KkurpvkFto4g1GWDStFC61vmRvuKENAuH
+Minting 10000 tokens
+  Token: HmjorGD6AbDoTEe5JquSAt3AvveGGAZanccNXyR9GDu4
+  Recipient: FkzAqCPq5m7KkurpvkFto4g1GWDStFC61vmRvuKENAuH
+
+Signature: 3aA888ZdADRHUsrSZhwXqR8ifRnv3kVBtTu7YDWjxPqQqsbHUpcR3RVNpm7USrktqfHGfV9sQzCQuxq5xMr31J2h

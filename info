@@ -1,0 +1,76 @@
+Wrote new keypair to /home/web-dev-02/.config/solana/7777test.json
+=================================================================================
+pubkey: 4xrDq733SrW47zneydVqGWXTE1Kuk46cWSqmf55WQjYX
+=================================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+festival vessel six mixture exhaust slide brief unfair gauge mouse train broccoli
+=================================================================================
+
+ts-node js/packages/cli/src/candy-machine-v2-cli.ts upload \
+    -e devnet \
+    -k ~/.config/solana/7777test.json \
+    -cp config.json \
+    -c example \
+    assets
+
+Candy machine address:  4TxdXX2HvkA74C8DyYCBBcFM6FL35bmwR4XzjhtUkCg9
+Collection metadata address:  7hy65cuKNAYtsKvvJWqPC9uKdf8xPiNMhdJFhgJWmmGD
+Collection metadata authority:  4xrDq733SrW47zneydVqGWXTE1Kuk46cWSqmf55WQjYX
+Collection master edition address:  AHu1p9t126h7R7T2Tx4fYx69JpJFu2YHAu5WZi2Gt9EF
+Collection mint address:  BFLQnm424ssfFjHS3peasWHPoZEfrwoCFG95LLaAoTU5
+Collection PDA address:  6YE8tzoWFKzyHq6uETJ6sLrJvGHnriUJzsEgMErYVdC1
+Collection authority record address:  5Y1ysSYsgrb3hT3bK7JH8pU3jTTgkRVQzMHXc1gCbVaJ
+Collection:  {
+  collectionMetadata: '7hy65cuKNAYtsKvvJWqPC9uKdf8xPiNMhdJFhgJWmmGD',
+  collectionPDA: '6YE8tzoWFKzyHq6uETJ6sLrJvGHnriUJzsEgMErYVdC1',
+  txId: '4sZ2ppC2jauicFTU6ERKTkJrMp2RQ6qkb84F4spKQncgjHYze1wvrbo3TVHPtC7FjJm6mCZm8F4HKwhUPDsWADbn'
+
+
+
+  ts-node js/packages/cli/src/candy-machine-v2-cli.ts update_candy_machine \
+    -e devnet \
+    -k ~/.config/solana/7777test.json \
+    -cp config.json \
+    -c example
+
+
+    /home/web-dev-02/.config/solana/reveal.json
+
+# Uploaded to https://arweave.net/2y9TozNdCwOvNIP4reGxIeZdePtGxL4G2tB8Y80a6Sw
+bundlr upload placeholder/abc.png \ 
+--host https://devnet.bundlr.network \
+--currency solana \
+--timeout 200 \
+--wallet /home/web-dev-02/.config/solana/reveal.json
+
+
+# Uploaded to https://arweave.net/Pq4urWx5-CT-qk_GHus3xDH1YN-H9v8LGOq_f7NF8Y0
+bundlr upload placeholder/abc.json \ 
+--host https://devnet.bundlr.network \
+--currency solana \
+--timeout 200 \
+--wallet /home/web-dev-02/.config/solana/reveal.json
+
+
+
+bundlr fund 11000 \ 
+--host https://devnet.bundlr.network \
+--currency solana \
+--timeout 200 \
+--provider-url https://metaplex.devnet.rpcpool.com \
+--wallet /home/web-dev-02/.config/solana/reveal.json
+
+
+
+
+
+
+wallet public key: 4xrDq733SrW47zneydVqGWXTE1Kuk46cWSqmf55WQjYX
+Using cluster devnet
+Beginning the upload for 10 (img+json) pairs
+started at: 1657600169950
+config for a candy machine with publickey: 4TxdXX2HvkA74C8DyYCBBcFM6FL35bmwR4XzjhtUkCg9 has been already initialized
+
+
+md5 hsash : 7b712847c05ae883ffb9c82ea1ef0c5d
+
